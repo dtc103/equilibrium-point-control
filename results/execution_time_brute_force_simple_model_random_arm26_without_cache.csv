@@ -1,0 +1,4 @@
+TRIlong_start_activation;TRIlong_final_activation;TRIlat_start_activation;TRIlat_final_activation;TRImed_start_activation;TRImed_final_activation;BIClong_start_activation;BIClong_final_activation;BICshort_start_activation;BICshort_final_activation;BRA_start_activation;BRA_final_activation;r_shoulder_jointangle_desired;r_shoulder_jointangle_final;r_elbow_jointangle_desired;r_elbow_jointangle_final;execution_time;gradient_stepsize
+0.3;0.063;0.2;0.149;0.4;0.429;0.2;0.279;0.2;0.237;0.2;0.159;45;45.0021;135;134.999;197602;0.001
+0.3;0.063;0.2;0.149;0.4;0.429;0.2;0.279;0.2;0.237;0.2;0.159;45;45.0021;135;134.999;202099;0.001
+0.3;0.063;0.2;0.149;0.4;0.429;0.2;0.279;0.2;0.237;0.2;0.159;45;45.0021;135;134.999;198498;0.001
